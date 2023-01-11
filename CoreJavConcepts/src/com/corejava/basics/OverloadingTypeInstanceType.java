@@ -48,6 +48,6 @@ class Person {
 }
 
 //Constructor:
-// it has the same name as class name
-//It is used for initializing the object
-//It does not have any return type
+// It has the same name as class name
+// It is used for initializing the object
+// It does not have any return type
